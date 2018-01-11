@@ -1,22 +1,11 @@
 Below are a list of 'free' resource websites for:
-# Photos
-# Icons
-# Graphics 
-# Patterns 
-----
 
-https://www.freepik.com/
-http://www.shapes4free.com/
-https://fontawesome.com/icons?d=gallery
-http://fontawesome.io/cheatsheet/
-https://fonts.google.com
-https://unsplash.com/
-https://www.iconfinder.com/
-https://pixabay.com/
-https://www.toptal.com/designers/subtlepatterns/
-https://www.myfonts.com/WhatTheFont/
+# Photos
 https://www.freeimages.com/
+https://unsplash.com/
 https://morguefile.com/quest/1
+https://pixabay.com/
+https://www.freepik.com/
 http://imcreator.com/free
 http://publicdomainarchive.com/
 https://picjumbo.com/
@@ -26,4 +15,19 @@ https://www.foodiesfeed.com/
 https://magdeleine.co/browse/
 http://jaymantri.com/archive
 https://picography.co/
-http://thepatternlibrary.com/
+
+# Icons
+https://fontawesome.com/icons?d=gallery
+http://fontawesome.io/cheatsheet/
+https://www.iconfinder.com/
+
+# Graphics 
+http://www.shapes4free.com/
+
+
+# Patterns 
+https://www.toptal.com/designers/subtlepatterns/
+https://www.myfonts.com/WhatTheFont/
+
+# Fonts
+https://fonts.google.com
